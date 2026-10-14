@@ -6,4 +6,4 @@ run with `cargo run > image.ppm`
 
 Output:
 
-![sphere](image/example.png)
+![sphere](example/example.png)
